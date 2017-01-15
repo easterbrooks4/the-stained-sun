@@ -1,0 +1,60 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Olivia Erlanger</title>
+<style type="text/css">
+.nav {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: lighter;
+	font-variant: normal;
+	text-transform: none;
+	color: #00F;
+	list-style-position: outside;
+	list-style-image: none;
+	list-style-type: square;
+	display: inline;
+	text-align: left;
+	white-space: normal;
+	filter: Glow(Color=green, Strength=10);
+	line-height:.01
+}
+.title {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 14px;
+	line-height: normal;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #000;
+}
+.text {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	line-height: .01px;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #00F;
+	text-decoration: none;
+}
+
+</style>
+</head>
+
+<body>
+ <div class="title">
+<p>the backyard shed with a painted sun at 14 graves st, Red Hok, NY 12571 (in between the John Deere store, the parking lot of the Hendrick Hudson Masonic Lodge, and the 12 or so cats next door)</p>
+</div>
+<div class+"text">
+In mar. 2017, I'll drive Olivia up to my house to do something that is undecided at the moment. I think we may go to Wyndclyffe mansion together.
+</div>
+<div class= "nav">
+<p>this is Olivia's website</p>
+<p><a href="http://www.oliviaerlanger.com/">http://www.oliviaerlanger.com/</a></p>
+</body>
